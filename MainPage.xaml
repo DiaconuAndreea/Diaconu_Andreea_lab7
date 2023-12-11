@@ -8,7 +8,7 @@
             Padding="30,0"
             Spacing="25">
             <Image
-                Source="dotnet_bot.png"
+                Source="dotnet_bot.svg"
                 HeightRequest="185"
                 Aspect="AspectFit"
                 SemanticProperties.Description="dot net bot in a race car number eight" />
@@ -32,5 +32,4 @@
                 HorizontalOptions="Fill" />
         </VerticalStackLayout>
     </ScrollView>
-
 </ContentPage>
